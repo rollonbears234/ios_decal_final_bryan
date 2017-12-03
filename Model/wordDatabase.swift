@@ -19,9 +19,12 @@ import UIKit
 //var words: [String: [PostStruct]] = ["memes": [], "dog spots": [], "random": []]
 
 
-var english = ["dog", "cat"]
-var russian = [ "собака", "кошка"]
-var hint = ["Chewbacca's best friend", "kute Kat"]
+var english = ["dog", "cat", "sick", "essay", "be located", "chair", "neighbor", "just a little",
+    "bottle", "great", "drink (noun)", "genius", "beautiful"]
+var russian = [ "собака", "кошка", "болен", "эссе", "находиться", "стул", "сосед", "чуть-чуть",
+    "бутылка", "отлично", "напиток", "гений", "красивый"]
+var hint = ["Chewbacca's best friend", "kute Kat", "bowling is rad", "easy essays", "Ha who?", "stool", "so said the neighbor", "a train goes choo choo",
+    "bottle at a butique", "leeches aren't great", "they make you pee", "genius genie", "the sea is crazy beautiful"]
 
 //let threadNames = ["memes", "dog spots", "random"]
 //let nameNum = [0: "memes", 1: "dog spots", 2: "random"] //for setting up the headings
